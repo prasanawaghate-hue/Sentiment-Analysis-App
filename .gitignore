@@ -1,0 +1,5 @@
+﻿venv/
+__pycache__/
+*.pyc
+IMDB Dataset.csv
+IMDB Dataset.csv.zip
